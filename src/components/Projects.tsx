@@ -12,8 +12,8 @@ export function Projects() {
         <div className="projects">
           <Header />
 
-          <h1 className="text-2xl py-3 text-center mt-10 font-bold text-violet-500 bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-pink-500">Projetos</h1>
-          <p className="w-full text-center mb-10">Esses são alguns projetos desenvolvidos</p>
+          <h1 className="text-3xl py-3 text-center mt-20 font-bold text-violet-500 bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-pink-500">Projetos</h1>
+          <p className="w-full text-center mb-10">Esses são alguns projetos desenvolvidos por mim.</p>
 
           <div className="w-[95%] max-w-[1280px] grid grid-cols-3 gap-4 md:grid-cols-2 m-auto sm:grid-cols-1 m-auto">
             <div className="flex flex-col justify-center rounded-b-lg  bg-zinc-700" >
