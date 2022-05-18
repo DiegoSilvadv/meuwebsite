@@ -5,7 +5,7 @@ export function Header() {
 
     return (
         <Popover className="w-full h-12 flex absolute top-0 transition ease-in-out delay-150">
-            <Popover.Button className="invisible sm:visible space-y-2 ml-10 mt-10 ">
+            <Popover.Button className="invisible h-full sm:visible space-y-2 ml-10 mt-10 ">
                 <div className="w-8 h-0.5 bg-violet-500"></div>
                 <div className="w-8 h-0.5 bg-violet-500"></div>
                 <div className="w-8 h-0.5 bg-violet-500"></div>
