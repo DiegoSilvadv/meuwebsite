@@ -3,5 +3,6 @@
 @tailwind utilities;
 
 body {
-    @apply bg-zinc-800 text-zinc-300
+    @apply bg-zinc-800 text-zinc-300 font-[Roboto] font-sans
+
 }

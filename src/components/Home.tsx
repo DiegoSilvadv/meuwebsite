@@ -73,7 +73,7 @@ export function Home() {
         <div className="w-full max-w-[650px] flex flex-col justify-center m-auto items-start sm:items-center">
           <strong className="mt-10">Olá, eu sou</strong>
           <strong className="text-4xl py-3 font-bold animate-pulse text-violet-500 bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-pink-500">Diego Silva</strong>
-          <strong>Desenvolvedor Front-end</strong>
+          <strong>Desenvolvedor Full Stack</strong>
           <div className="w-full flex justify-self-auto my-4 gap-2 sm:block w-2/4 ">
             <a href="https://www.linkedin.com/in/diego-silva-96234318b/" className="w-full rounded-sm flex items-center p-2 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 sm:flex item-center justify-center mt-2">
               <LinkedinLogo weight="fill" size={25} className="mr-2" /> Linkedin

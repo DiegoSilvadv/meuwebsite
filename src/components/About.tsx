@@ -7,7 +7,8 @@ export function About() {
         <div className="w-full flex items-center flex-col">
             <WhatsappButton />
             <Header />
-            <h1 className="font-bold text-3xl text-violet-500 bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-pink-500 text-2xl py-2 mt-20 sm:mt-15">Sobre</h1>
+            <h1 className="text-violet-500 bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-pink-500 items-start font-bold text-3xl  py-2 mt-20 mb-5 sm:mt-15">Sobre</h1>
+
 
             <div className=" w-full max-w-[700px] flex justify-center items-center sm:flex-col">
                 <img
